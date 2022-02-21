@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(230, 204, 230);
+}
+form
+{
+    background-color: rgb(242, 219, 189);
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+}
+#input1
+{
+    margin-top: 95px;
+    border: 1px solid black;
+
+}
+.input2
+{
+    border:1px solid black;
+}
